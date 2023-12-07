@@ -4,4 +4,8 @@
 - murrepiirteiden haku labeloiduista korpuksista (murrepiirteiden_haku.ipynb)
 - murrepiirteiden luokittelutesti (sklearn_classifier)
 - classifier training ja testing data Puhdissa (/scratch/project_2008526/eltuom/suomi24_conllu_folders/sklearn_luokittelu)
-- excel X piirteiden esiintymistä datassa?
+
+TO DO:
+- excel X piirteiden esiintymistä datassa
+- siirrä datat altaaseen --> tänne linkit
+- täydennä ohjeet skriptien ajoon
